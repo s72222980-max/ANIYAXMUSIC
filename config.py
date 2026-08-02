@@ -14,7 +14,7 @@ load_dotenv()
 API_ID = int(getenv("32426469"))
 API_HASH = getenv("6cc009055eb3c64d5b50d6cea35ebee8")
 # ------------------------------------------------------
-BOT_TOKEN = 8938081198:AAF3WQZiJIMSPA8FMx3gyVg4pDUidxiYkes
+BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","zctol")
 # --------------------------------------------------------

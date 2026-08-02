@@ -14,7 +14,7 @@ load_dotenv()
 API_ID = int(getenv("32426469"))
 API_HASH = getenv("6cc009055eb3c64d5b50d6cea35ebee8")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = 8938081198:AAF3WQZiJIMSPA8FMx3gyVg4pDUidxiYkes
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","zctol")
 # --------------------------------------------------------
@@ -22,13 +22,13 @@ BOT_USERNAME = getenv("BOT_USERNAME" , "ShizukaMusicz_Robot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "˹𝐒ʜɪᴢᴜᴋᴀ ✘ 𝐌ᴜsɪᴄ˼ [ ηᴏ ᴧᴅs ]")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "to Ursex4_Sasuke")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Ursex4_Sasuke")
 # ---------------------------------------------------------
 GROQ_API_KEY="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"
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://theriyamusic94:f67KlgTyzr3TTutn@cluster0.lym5x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://sbkssosj_db_user:ZzM1O9dTqzINesoK@cluster0.a2albdy.mongodb.net/")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
@@ -69,7 +69,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sexy_nobi")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/urlordbaby")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+sd8_xyeYFGZmNmFl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
@@ -116,7 +116,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", "BQGV228AnXNo28JZUA8Gj_U2NXX7Gf-D7v0wBMBtAVmfm4tchpWtUbg5XaAJqLKMPSVOEseufFuzFrbH3IIit5_IJL997Z_1UUgnAu50mSjHcuDhBLEc1r3Q8T8J506_io6JyLF1ElpuU0jer8QswWQAn2Lp4IGHM0VCaDsSserjVoh1HKwfWQnr3oWnr919gnmRwyDU8TlazWYrcT7MhtMBOLVIn7YOSZsLfMdFu-v0lrujxGWkp48zdTAonetevCBVWbkSetWnRKROhZWUh6ItGtFk5d75uWmtO1LAP_kKlz9wxc-9nsBYrUiDmv4OtSheB8ma_Ag2PKFa9uYZagsdiOhyjAAAAAGwUnlsAA")
+STRING1 = getenv("STRING_SESSION", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
